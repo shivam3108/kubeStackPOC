@@ -31,6 +31,7 @@ clusters = {
       # e.g. cluster_node_locations = "europe-west3-a,europe-west3-b,europe-west3-c"
       # FIXME: Use actual list when TF 0.12 finally supports heterogeneous maps
       cluster_node_locations = "us-central1-c,us-central1-a"
+      cluster_node_labels = "poc"
     }
 
     # ops environment, inherits from apps
