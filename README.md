@@ -1,2 +1,0 @@
-# kubeStackPOC
-exploring kubeStack 
