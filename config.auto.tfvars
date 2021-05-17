@@ -10,7 +10,7 @@ clusters = {
       # e.g. name_prefix = kbst becomes: `kbst-apps-europe-west3`
       # for small orgs the name works well,
       # for bigger orgs consider department or team names
-      name_prefix = "kbst-infra"
+      name_prefix = "infra"
 
       # Set the base_domain used to generate the FQDN of the cluster
       # [cluster_name].[provider_name].[base_domain]
