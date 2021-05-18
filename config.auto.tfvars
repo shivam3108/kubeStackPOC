@@ -21,7 +21,7 @@ clusters = {
       cluster_min_master_version = "1.18"
 
       # Initial number of desired nodes per zone
-      cluster_initial_node_count = 1
+      cluster_initial_node_count = 2
 
       # The Google cloud region to deploy the clusters in
       region = "us-central1"
